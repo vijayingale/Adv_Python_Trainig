@@ -1,0 +1,67 @@
+<collection shelf="New Arrival">
+    <movie title="Enemy Behind">
+        <type>War ,Thriller</type>
+        <format>DVD</format>
+        <year>2003</year>
+        <rating>PG</rating>
+        <start>10</start>
+        <sescription> Talk about a US-Japan war</sescription>
+    </movie>
+    <movie title="Boss">
+        <type>Action, Drama ,Thriller</type>
+        <format>DVD</format>
+        <year>2004</year>
+        <rating>8</rating>
+        <start>10</start>
+        <sescription> Talk about a one man Army</sescription>
+    </movie>
+    <movie title="Sing is Bling">
+        <type> Commedy</type>
+        <format>DVD</format>
+        <year>2005</year>
+        <rating>8</rating>
+        <start>10</start>
+        <sescription> Talk about a One Good Huart Persone</sescription>
+    </movie>
+    <movie title="khiladi 786">
+        <type>Comedy ,Drama</type>
+        <format>DVD</format>
+        <year>2006</year>
+        <rating>8</rating>
+        <start>10</start>
+        <sescription> Talk about a Twince</sescription>
+    </movie>
+    <movie title="Suryavansham">
+        <type>War ,Thriller, Action</type>
+        <format>DVD</format>
+        <year>2009</year>
+        <rating>9</rating>
+        <start>10</start>
+        <sescription> Talk about a Police Action</sescription>
+    </movie>
+    <movie title="Housefull">
+        <type>Commedy</type>
+        <format>DVD</format>
+        <year>2010</year>
+        <rating>9</rating>
+        <start>10</start>
+        <sescription> Talk about a some different personality in one place</sescription>
+    </movie>
+    <movie title="Hera Fery">
+        <type>Commedy</type>
+        <format>DVD</format>
+        <year>2011</year>
+        <rating>9</rating>
+        <start>10</start>
+        <sescription> Talk about a three different Briliants</sescription>
+    </movie>
+    <movie title="Beby">
+        <type>Action ,Thriller</type>
+        <format>DVD</format>
+        <year>2012</year>
+        <rating>09</rating>
+        <start>10</start>
+        <sescription> Talk about a indian Secrate servicess</sescription>
+    </movie>
+
+</collection>
